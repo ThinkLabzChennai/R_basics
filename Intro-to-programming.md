@@ -2,9 +2,7 @@
 title: "Introduction to <br>Programming <br> with R"
 author:    
     -  "RSN_Thinklabz_Chennai"
-    -  Website https://www.thinklabz.ai/
-    -  Mail Thinklabz.chennai@gmail.com
-date: "July 3, 2021"
+
 output:
   html_document:
     keep_md: true
